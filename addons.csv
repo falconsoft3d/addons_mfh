@@ -1,4 +1,6 @@
 name,repo,description
 ticket_pro,addons_general,este es un módulo de soporte.
+base_bim_2,bim_2,Módulo de construcción para Odoo.
+bim_crm,bim_2,Integración de Bim con CRM.
 partner_fingerprint,odoo_integrations, Permite integrar las huellas con Odoo para gestionar las ventas y facturacion. En los parametros decide que bloquea.
 picking_product_serial_by_range, addons_general, este modulo permite escoger los números de serie a entregar en una venta a partir de un rango seleccionado. se ejecuta la acción a nivel de linea en la venta y se se selecciona el rango que nos devuelve el listado de Números de series existentes para escoger los que usaremos en la entrega solo muestra los que tengan existencia
