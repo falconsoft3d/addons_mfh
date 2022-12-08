@@ -1,7 +1,3 @@
 { 
-    "addons" : 
-        [
-            "ticket_pro", "Para llevar el control de tickets de soporte",
-            "father",  "Plantilla"
-        ] 
+    "addons" : "1"
 }
