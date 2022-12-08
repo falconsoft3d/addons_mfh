@@ -1,2 +1,3 @@
 name,repo,description
 ticket_pro,addons_general,este es un módulo de soporte.
+partner_fingerprint,odoo_integrations, Permite integrar las huellas con Odoo para gestionar las ventas y facturacion.
