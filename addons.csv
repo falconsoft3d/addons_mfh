@@ -6,3 +6,37 @@ partner_fingerprint,odoo_integrations, Permite integrar las huellas con Odoo par
 picking_product_serial_by_range, addons_general, este modulo permite escoger los números de serie a entregar en una venta a partir de un rango seleccionado. se ejecuta la acción a nivel de linea en la venta y se se selecciona el rango que nos devuelve el listado de Números de series existentes para escoger los que usaremos en la entrega solo muestra los que tengan existencia
 credit_big_sale,credit,Venta mayorista
 credit_payment_lock_state,credit,Agrega el estado de bloqueo al pago masivo
+credit_phone_lock_with_api_nuovo,Credit,Bloqueo de moviles mediante API Nuovo
+credit_tools,Credit,Módulo técnico en el que hemos metido consultas y funciones(no para el cliente)
+account_payment_from_reconciliation_,Credit,
+autoposted_move  ,Credit,Publica el registro de pago account.payment cuando es creado desde la acción en el extracto bancario
+credit_claro_integration,Credit,Integracion con Claro. Scrapi para obtener numeros de telefono
+ credit_payment_relation,Credit,Relaciona los pagos masivos de un mismo crédito y agrega una pestaña para que el usuario los vea sin tener que volver al crédito
+credit_phone_massive_payment_filter,Credit,
+credit_whatsapp_api_connector,Credit,Conector con whatsapp para enviar los pagos
+account_payment_from_reconciliation_by_cron,Credit,Define que extracto bancario tiene líneas disponibles para crear el pago contable y cron crea los pagos
+credit_delay_register,Credit,Registra los atrasos de cuentas diariamente mediante un cron
+ credit_payment_totals,Credit,Calcula el monto vencido. próximo a vencer. total etc
+credit_phone_vnz,Credit,Base credito Venezuela
+credit_whatsapp_sender,Credit,Agrega la opción de mandar el reporte de pago masivo por whatsapp
+base_credit,Credit,Modulo de credito
+credit_internal_trf_get_mdm_id ,Credit,Obtener Id MDM desde transferencia interna
+ credit_phone,Credit,Valida los números de teléfono en partner empezando con 806.809.829 y esconde el botón confirmar ventas si no es una venta avanzada
+credit_request_to_master,Credit,Busqueda de datos de los contactos en master
+lock_queue,Credit,Cola de bloqueos
+credit_altice_integration,Credit,Calificacion de contactos para creditos
+credit_phone_chat_room,Credit,Registra los teléfonos de los contactos del chat room como registros de teléfonos en el partner
+credit_required_attachment,Credit,establece adjuntos requeridos para un credito
+phone_lock_on_reception,Credit,Bloqueo de telefonos desde la recepcion
+credit_attachment_google_drive,Credit,Sube los documentos de pago a drive
+credit_partner_qualification_validations,Credit,Validacion de creditos según calificacion de contactos
+credit_phone_lock_with_api,Credit,Bloqueo de moviles mediante API Samsung (los demás tipos de bloqueos heredan de él)
+credit_run_sql_cron,Credit,ejecuta consultas con un con
+credit_audit ,Credit,Auditoria de determinados parametros de credito
+ credit_payment_audit,Credit,Auditoria de determinados parametros de pagos
+ credit_phone_lock_with_api_jam  ,Credit,Bloqueo de telefonos con JAM
+credit_samsung_notifications,Credit,Envio de notificaciones a moviles samsumg
+credit_bankify,Credit,Se conecta a la api de banco y trae las transacciones
+ credit_payment_exchange,Credit,Agrega las opciones de dar el vuelto en los pagos masivos
+credit_phone_lock_with_api_mdm,Credit,Bloqueo de telefonos con MDM
+credit_thermal_invoice,Credit,Imprimir factura termica 
