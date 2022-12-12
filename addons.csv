@@ -12,7 +12,7 @@ account_payment_from_reconciliation_,Credit,
 autoposted_move  ,Credit,Publica el registro de pago account.payment cuando es creado desde la acción en el extracto bancario
 credit_claro_integration,Credit,Integracion con Claro. Scrapi para obtener numeros de telefono
  credit_payment_relation,Credit,Relaciona los pagos masivos de un mismo crédito y agrega una pestaña para que el usuario los vea sin tener que volver al crédito
-credit_phone_massive_payment_filter,Credit,
+credit_phone_massive_payment_filter,Credit,Filtro para pagos masivos
 credit_whatsapp_api_connector,Credit,Conector con whatsapp para enviar los pagos
 account_payment_from_reconciliation_by_cron,Credit,Define que extracto bancario tiene líneas disponibles para crear el pago contable y cron crea los pagos
 credit_delay_register,Credit,Registra los atrasos de cuentas diariamente mediante un cron
