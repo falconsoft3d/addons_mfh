@@ -40,3 +40,54 @@ credit_bankify,Credit,Se conecta a la api de banco y trae las transacciones
  credit_payment_exchange,Credit,Agrega las opciones de dar el vuelto en los pagos masivos
 credit_phone_lock_with_api_mdm,Credit,Bloqueo de telefonos con MDM
 credit_thermal_invoice,Credit,Imprimir factura termica 
+attachment_auto_delete,addons_general,auto borrado de adjuntos
+free_search_partner,addons_general,Búsqueda libre en filtro de partner
+partner_qualification,addons_general,Calificación de Partners
+navbar_current_year,addons_general,Colocar año de trabajo en la barra de navegación
+picking_standard_price,addons_general,Colocar costo en el albarán
+barcode_editable_tree_view,addons_general,colocar el código de barra editable ne la vista tree
+smart_commissions,addons_general,comisiones
+purchase_from_sale,addons_general,Compra generada desde la venta
+sale_massive_confirmation,addons_general,Confirmación masiva de ventas
+journal_sequences_without_spaces,addons_general,Crear registro para evitar salto de secuencias
+account_dashboard,addons_general,Dashboard de contabilidad
+partner_journal,addons_general,diario por partner
+l10n_account_close_open,addons_general,Diarios de cierre y apertura
+picking_effective_date,addons_general,Editar fecha efectiva del albarán
+journal_sequences,addons_general,Editar secuencia de diarios
+purchase_reason_cancellation,addons_general,exigir motivo de cancelación en compras
+virtual_account,addons_general,Factura virtual
+partner_account_generator,addons_general,Generar cuentas contables por creación del partner
+generate_invoice_from_picking,addons_general,Generar factura desde albarán
+partner_code_generator,addons_general,Generar código para partner (Proveedores. Acreedores y clientes)
+sale_margin_pro,addons_general,Gestión de margen en ventas
+sales_history,addons_general,Historial de ventas
+l10n_account_close_open_balance_ignorable,addons_general,Ignorar asiento de cierre ya apertura en informe de balance
+account_move_line_import,addons_general,Importar asientos contables
+sale_product_discount_limit,addons_general,limite de descuento en ventas
+partner_blacklist,addons_general,Lista negra de contactos
+picking_reference,addons_general,llevar al picking la referencia de la venta
+company_working_year,addons_general,Manejar secuencias en facturas según el año de trabajo. permite realizar facturas ne diferentes años sin alterar las secuencias
+partner_multi_images,addons_general,Múltiples imágenes por partner
+product_not_create,addons_general,No permite crear productos
+no_create_uom,addons_general,No permitir crear unidades  de medidas
+hide_button_invoice_from_purchase,addons_general,Ocultar botón de facturar en compras
+hide_button_invoice_from_sale,addons_general,Ocultar botón de facturar en ventas
+product_attribute_sort,addons_general,Ordenar los atributos
+massive_payment,addons_general,Pagos masivos
+sale_cancel_permission,addons_general,Permiso para cancelar ventas restringido
+remit_sepa,addons_general,Permite emitir remesas SEPA
+auto_backup_to_google_drive,addons_general,Programar auto Backup hasta google drive
+partner_claim_invoice,addons_general,Reclamación de facturas por clientes
+partner_family_relation,addons_general,Relación de familiares por partner
+sepa_report_pdf,addons_general,Reporte SEPA Pdf
+partner_risk_limit,addons_general,Riesgo limite en partners
+route_pro,addons_general,Rutas para contactos
+who_installed,addons_general,Saber quien instalo un modulo
+purchase_type,addons_general,Tipo de compra
+user_defafult_warehouse,addons_general,Uso de almacén por defecto por usuario
+sale_margin_color,addons_general,validación de margen de venta por color
+sale_cross_docking,addons_general,Venta crossdoking
+product_multiple_of_sale,addons_general,Venta de productos por múltiplo
+partner_product_sale_history,addons_general,Venta desde histórico de productos
+sale_by_box,addons_general,Venta por cajas
