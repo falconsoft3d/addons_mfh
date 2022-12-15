@@ -91,3 +91,14 @@ sale_cross_docking,addons_general,Venta crossdoking
 product_multiple_of_sale,addons_general,Venta de productos por múltiplo
 partner_product_sale_history,addons_general,Venta desde histórico de productos
 sale_by_box,addons_general,Venta por cajas
+account_move_entry_ref_to_asset_description,addons_general,Automatizar que la descripción de las líneas de los asientos sea igual a la referencia del asiento.
+menu_stock_picking,addons_general,Coloca el menu de albaranes en la venta y la compra
+purchase_picking_type_from_user,addons_general,colocar en compras por defecto el almacén configurado para el usuario
+invoice_payment_hide_backtodraft addons_general,Cuando una factura consta como pagada o en proceso de pago NO SE PUEDE MODIFICAR
+last_purchase_price_from_invoice,addons_general,Cuando validas las factura de compra se guarda el precio para ese proveedor
+product_barcode_from_picking addons_general,en un albarán de compras se puede introducir el código de barras del producto y que este se modifique en el producto.
+picking_by_email,addons_general,enviar albran por correo
+stock_product_margin,addons_general,establecer margen en el producto y que el precio se pueda actualizar dede el producto
+recurrent_account_move,addons_general,Factura recurrente
+no_contact_invoicing,addons_general,No facturar a contactos . solo a direcciones principales
+sale_confirmed_partner_change,addons_general,Poder cambiar el cleinte de un pedido confirmado
